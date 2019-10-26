@@ -28,7 +28,7 @@ echo "<!DOCTYPE html>
         <style type=\"text/css\">
             
             body {
-                background-image: url(\"https://user-images.githubusercontent.com/3501170/55271108-d11b3180-52fb-11e9-97e2-c930be295147.png\");
+                background-image: url(\"https://i.imgur.com/3fd6V6p.jpg\");
                 background-size: 1650px 1150px;
                 background-repeat: no-repeat;
             }
